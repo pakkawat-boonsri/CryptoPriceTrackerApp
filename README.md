@@ -1,5 +1,7 @@
 # CryptoPriceTrackerApp
 
+Term Project for Mobile Application Subject 
+
 <img src="https://github.com/pakkawat-boonsri/CryptoPriceTrackerApp/assets/91787198/26d7e138-aa7a-4ebc-b71b-f56dee19977c" width="200"/>
 <img src="https://github.com/pakkawat-boonsri/CryptoPriceTrackerApp/assets/91787198/2e2781ce-7d16-4277-8e77-63ccc845dd79" width="200"/>
 <img src="https://github.com/pakkawat-boonsri/CryptoPriceTrackerApp/assets/91787198/ccc24e57-30da-4565-8096-e48ebabca6be" width="200"/>
